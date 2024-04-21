@@ -1,1 +1,5 @@
-Public class Akash
+Public class Akash{
+  public void String main[]args(){
+    
+  }
+}
